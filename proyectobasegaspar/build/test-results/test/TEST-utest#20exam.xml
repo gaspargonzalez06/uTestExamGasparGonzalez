@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="utest exam" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-10-14T21:21:48" hostname="DESKTOP-9SF429B" time="0.18">
+  <properties/>
+  <testcase name="when the user was creating a new account" classname="utest exam" time="0.18">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@299b1dbf
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1682f91d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3edc7f36
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: when the user was creating a new account:Given than Mark wants to create a new user for utest.com
+| strFirstName | strLastName | strEmailAddress | strBirthdayMonth | strBirthdayDay | strBirthdayYear | strZip | strPassword | strConfirmPassword |
+| YourFirstName | YourLastName | YourEmailAddress | YourBirthdayMonth | YourBirthdayDay | YourBirthdayYear | YourZip | YourPassword | YourPasswordAgain |, When he finish the form the system search the confirmation Page
+| strRedirectionPage |
+| Confirmation Page |, Then he finds the confirmation Page
+| strRedirectionPage |
+| Confirmation Page |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [when the user was creating a new account:Given than Mark wants to create a new user for utest.com
+| strFirstName | strLastName | strEmailAddress | strBirthdayMonth | strBirthdayDay | strBirthdayYear | strZip | strPassword | strConfirmPassword |
+| YourFirstName | YourLastName | YourEmailAddress | YourBirthdayMonth | YourBirthdayDay | YourBirthdayYear | YourZip | YourPassword | YourPasswordAgain |, When he finish the form the system search the confirmation Page
+| strRedirectionPage |
+| Confirmation Page |, Then he finds the confirmation Page
+| strRedirectionPage |
+| Confirmation Page |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [when the user was creating a new account:Given than Mark wants to create a new user for utest.com
+| strFirstName | strLastName | strEmailAddress | strBirthdayMonth | strBirthdayDay | strBirthdayYear | strZip | strPassword | strConfirmPassword |
+| YourFirstName | YourLastName | YourEmailAddress | YourBirthdayMonth | YourBirthdayDay | YourBirthdayYear | YourZip | YourPassword | YourPasswordAgain |, When he finish the form the system search the confirmation Page
+| strRedirectionPage |
+| Confirmation Page |, Then he finds the confirmation Page
+| strRedirectionPage |
+| Confirmation Page |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: when the user was creating a new account
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
